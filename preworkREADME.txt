@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## CODEPATH_DEMO
 
 ### App Description
 `TODO://` Add app description
