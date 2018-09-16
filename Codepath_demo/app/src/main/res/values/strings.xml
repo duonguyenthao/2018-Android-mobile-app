@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Codepath_demo</string>
+    <string name="hello_from_theresa">Hello from Theresa!</string>
+    <string name="change_text_color">Change text color</string>
+</resources>
