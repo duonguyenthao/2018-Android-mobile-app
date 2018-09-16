@@ -1,11 +1,11 @@
 ## CODEPATH_DEMO
 
 ### App Description
-`TODO://` Add app description
+`TODO://` This app aims to change text color when the button is clicked.
 
 ### App Walk-though
 
-<img src="http://recordit.co/2EVHnTDo4d" width=200><br>
+<img src="https://i.imgur.com/y22mkmE.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
